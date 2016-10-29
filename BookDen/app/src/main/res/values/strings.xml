@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BookDen</string>
+   <string name="action_settings">Logout</string>
+        <string name="hint_name">Full Name</string>
+        <string name="hint_email">Email</string>
+        <string name="hint_password">Password</string>
+        <string name="btn_sign_in">Sign In</string>
+        <string name="btn_sign_up">Sign Up</string>
+        <string name="btn_link_to_register">Not Registered Yet, SignUp Now!!</string>
+        <string name="btn_link_to_signin">Already have Account,Please SignIn!!</string>
+        <string name="err_msg_name">Enter your full name</string>
+        <string name="err_msg_email">Enter valid email address</string>
+        <string name="err_msg_password">Enter the password</string>
+     <string name="btn_logout">Logout</string>
+     <string name="welcome">welcome</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_f_romance</item>
+        <item>@string/nav_item_f_thriller</item>
+        <item>@string/nav_item_f_mystery</item>
+        <item>@string/nav_item_f_short_stories</item>
+        <item>@string/nav_item_f_fantasy</item>
+        <item>@string/nav_item_f_myth</item>
+        <item>@string/nav_item_nf_biography</item>
+        <item>@string/nav_item_nf_autobiography</item>
+        <item>@string/nav_item_nf_Poems</item>
+    </string-array>
+    <string name="nav_item_home">Your Books</string>
+    <string name="nav_item_f_romance">Romance</string>
+    <string name="nav_item_f_thriller">Thriller</string>
+    <string name="nav_item_f_mystery">Mystery</string>
+    <string name="nav_item_f_short_stories">Short Stories</string>
+    <string name="nav_item_f_fantasy">Fantasy</string>
+    <string name="nav_item_f_myth">Myths, Legends and Sagas</string>
+    <string name="nav_item_nf_biography">Biography</string>
+    <string name="nav_item_nf_autobiography">Auto Biography</string>
+    <string name="nav_item_nf_Poems">Poems</string>
+
+    <string name="author_section">Author Section</string>
+    <string name="title_class">Messages</string>
+    <string name="title_attendance">Friends</string>
+    <string name="title_home">Home</string>
+    <string name="title_assignment">Assignme
+        nt</string>
+</resources>
